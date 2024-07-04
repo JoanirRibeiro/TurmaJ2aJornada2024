@@ -35,3 +35,11 @@
     display: block;
 }
 
+.lista-menu__titulo{
+    color: var(--laranja);
+    padding: 1em;
+}
+
+.lista-menu__item{
+    padding: 1em;
+}
