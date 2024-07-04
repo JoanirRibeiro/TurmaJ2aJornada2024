@@ -45,3 +45,7 @@
     padding: 1em;
     font-weight: 700;
 }
+
+.container__botao{
+    display: none;
+}
