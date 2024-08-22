@@ -103,4 +103,9 @@
     .cabecalho__imagem{
         padding: 1em;
     }
+
+    .opcoes__botao:checked~.lista-menu{
+        display: block;
+        width: auto;
+    }
 }
