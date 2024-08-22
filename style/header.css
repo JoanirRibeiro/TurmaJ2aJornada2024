@@ -99,4 +99,8 @@
     .cabecalho__menu-hamburguer{
         display: none;
     }
+
+    .cabecalho__imagem{
+        padding: 1em;
+    }
 }
