@@ -66,6 +66,10 @@
     display: none;
 }
 
+.container__texto{
+    display: none;
+}
+
 @media screen and (min-width: 800px) {
     .cabecalho__titulo{
         font-family: var(--fonte-secundaria);
@@ -127,5 +131,9 @@
 
     .opcoes{
         margin-right: auto;
+    }
+
+    .container__texto{
+        display: block;
     }
 }
